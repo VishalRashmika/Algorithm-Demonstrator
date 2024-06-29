@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\bin\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.exe.config
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\bin\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.exe
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\bin\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.pdb
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\bin\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.xml
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm_Demonstrator_ITP_Final_Assignment.Form1.resources
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm_Demonstrator_ITP_Final_Assignment.Resources.resources
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.exe
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.xml
+C:\Users\USER\Documents\Github\VB.NET\Algorithm-Demonstrator-ITP-Final-Assignment\Algorithm-Demonstrator-ITP-Final-Assignment\obj\Debug\Algorithm-Demonstrator-ITP-Final-Assignment.pdb
